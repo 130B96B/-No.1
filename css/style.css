@@ -20,7 +20,7 @@ li{
     justify-content: space-between;
     align-items: center;
     max-width: 800px;
-    margin: 0 auto 0 auto;
+    margin: 0 auto;
     text-align: center;
 }
 .profile{
@@ -51,7 +51,7 @@ li{
 }
 .title{
     text-align: center;
-    margin: 60px 0 60px 0;
+    margin: 60px 0;
     display: inline-block;
     border-bottom: solid 1px black;
 }
@@ -71,7 +71,7 @@ li{
 }
 #bicycle{
     max-width: 900px;
-    margin: 0 auto 0 auto;
+    margin: 0 auto;
     text-align: center;
 }
 #bicycle ul{
@@ -79,7 +79,7 @@ li{
     justify-content: space-between;
 }
 #bicycle li{
-    margin: 0 20px 0 20px;
+    margin: 0 20px;
 }
 #footer{
     margin-top: 100px;
