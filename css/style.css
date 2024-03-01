@@ -45,7 +45,7 @@ li{
     object-fit: cover;
 }
 #about{
-    max-width: 840px;
+    max-width: 840px; 
     margin: 0 auto 100px auto;
     text-align: center;
 }
@@ -85,4 +85,16 @@ li{
     margin-top: 100px;
     text-align: center;
 }
-  
+@media screen and (max-width: 800px) {
+
+#about .content {
+    flex-direction: column;
+}
+#about img {
+    display: flex;
+    justify-content: center;
+}
+#bicycle ul {
+    flex-direction: column;
+}
+}
