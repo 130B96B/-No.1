@@ -87,7 +87,14 @@ li{
 }
 @media screen and (max-width: 600px) {
 
-#about .content {
+ #header{
+    padding: 0 4%;
+ }
+ .content-right{
+    text-align: left;
+    padding: 0 4%;
+}
+.content {
     flex-direction: column;
 }
 #about img {
@@ -96,5 +103,8 @@ li{
 }
 #bicycle ul {
     flex-direction: column;
+}
+#bicycle ul li{
+    padding: 10px;
 }
 }
