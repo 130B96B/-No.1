@@ -87,7 +87,7 @@ li{
 }
 @media screen and (max-width: 600px) {
 
-#about .content {
+.content {
     flex-direction: column;
 }
 #about img {
