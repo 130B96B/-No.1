@@ -87,10 +87,10 @@ li{
 }
 @media screen and (max-width: 600px) {
 
- #header{
+#header{
     padding: 0 4%;
- }
- .content-right{
+}
+.content-right{
     text-align: left;
     padding: 0 4%;
 }
